@@ -15,4 +15,4 @@ Proof : https://www.virustotal.com/gui/file/af8658636d2e6863df527ec1e934e0cfbb97
 PortableMC and CustomTkinter
 
 ### How do i get Help?
-By Joining "https://discord.gg/NqqKX7P6" !
+By Joining "https://discord.gg/YsPcF2tEQF" !
