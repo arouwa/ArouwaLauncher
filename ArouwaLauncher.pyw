@@ -50,7 +50,7 @@ class MinecraftLauncherApp:
                                                                        "1.13", "1.14", "1.15", "1.16", "1.17", 
                                                                        "1.18", "1.19", "1.20", "1.20.1", "1.20.2", 
                                                                        "1.20.3", "1.20.4", "1.20.5", "1.20.6", 
-                                                                       "1.21"])
+                                                                       "1.21""fabric:1.8.9", "fabric:1.9", "fabric:1.10", "fabric:1.11", "fabric:1.12", "fabric:1.13", "fabric:1.14", "fabric:1.15", "fabric:1.16", "fabric:1.17", "fabric:1.18", "fabric:1.19", "fabric:1.20", "fabric:1.20.1", "fabric:1.20.2", "fabric:1.20.3", "fabric:1.20.4", "fabric:1.20.5", "fabric:1.20.6", "fabric:1.21"])
         self.version_combobox.pack(pady=5)
 
         # Start butonu sağ alt köşede
