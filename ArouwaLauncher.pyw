@@ -10,7 +10,7 @@ import time
 class MinecraftLauncherApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Minecraft Launcher")
+        self.root.title("AROUWA LAUNCHER")
         self.root.geometry("800x500")
 
         # Karanlık tema için CustomTkinter ayarları
